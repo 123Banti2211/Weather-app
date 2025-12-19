@@ -8,6 +8,3 @@ It fetches real-time weather data using OpenWeatherMap API.
 - Temperature, humidity & wind speed
 - Dynamic weather icons
 - Responsive UI
-
-## Live Demo
-https://your-username.github.io/weather-app/
